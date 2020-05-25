@@ -9,6 +9,9 @@ Daily sessions for the students to get started with Data Science.
 - [Day 5+6](./Day5+Day6/) - Interesting stuff
 - [Visualization-challenge](./Visualization-challenge/) - Visualization Challenge
 - [Day 7](./Day7/) - An Introduction to ML and What are the different buzz words we hear about every day
+- [Day 8](./Day8/) - Linear regression and implementing one from scratch
+- [Day 9](./Day9/) - Implementing Polynomial regression from scratch + Overfitting & Underfitting
+
 
 ------
 
